@@ -12,7 +12,7 @@ body {{ font-family: Arial; max-width: 640px; margin: 60px auto; }}
 .box {{ background:#DEEAF1; border-left: 5px solid #1F4E79; padding: 24px; border-radius: 8px; }}
 h1 {{ color: #1F4E79; }}
 </style></head><body>
-<h1>Ung dung Flask tren PaaS</h1>
+<h1>Ung dung Flask tren PaaS – phien ban 2!</h1>
 <div class="box">
 <p><b>Sinh vien:</b> THAY_TRAN_DANG_PHUONG_CHINH - THAY_233404050166</p>
 <p><b>Mon hoc:</b> Dien toan Dam may </p>
